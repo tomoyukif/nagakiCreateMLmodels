@@ -1,6 +1,6 @@
 # nagakiCreateMLmodels
 
-The "Models" forlder includes the following models.
+The "Models" directory includes the following models.
 
 BY-2-120_IC+op.mlmodel:
 The model was trained with Image Classifier with augmentation options (“Add Noise”, “Blur”, “Expose”, “Flip” and “Rotate”) by annotating 120 images including BY-2-derived dividing cells and 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
