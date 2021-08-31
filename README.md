@@ -41,23 +41,23 @@ The model was trained with Image Classifier without augmentation options by anno
 Mix-767_OD.mlmodel:
 The model was trained with Object Detector by annotating mitotic cells in 767 images including dividing cells of various species and others in 232 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
 
-Sunflower-120_IC+op.mlmodel:
+Ha-120_IC+op.mlmodel:
 The model was trained with Image Classifier with augmentation options (“Add Noise”, “Blur”, “Expose”, “Flip” and “Rotate”) by annotating 120 images including sunflower-derived dividing cells and 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
 
-Sunflower-120_IC.mlmodel:
+Ha-120_IC.mlmodel:
 The model was trained with Image Classifier without augmentation options by annotating 120 images including sunflower-derived dividing cells and 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
 
-Sunflower-120_OD.mlmodel:
+Ha-120_OD.mlmodel:
 The model was trained with Object Detector by annotating mitotic cells in 120 images including sunflower-derived dividing cells and others in 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
 
 Tetrad.mlmodel:
 The model was trained with Object Detector by annotating cells in 147 images including rice-derived tetrads.
 
-Tobacco-120_IC+op.mlmodel:
+Nt-120_IC+op.mlmodel:
 The model was trained with Image Classifier with augmentation options (“Add Noise”, “Blur”, “Expose”, “Flip” and “Rotate”) by annotating 120 images including tobacco-derived dividing cells and 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
 
-Tobacco-120_IC.mlmodel:
+Nt-120_IC.mlmodel:
 The model was trained with Image Classifier without augmentation options by annotating 120 images including tobacco-derived dividing cells and 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
 
-Tobacco-120_OD.mlmodel:
+Nt-120_OD.mlmodel:
 The model was trained with Object Detector by annotating mitotic cells in 120 images including tobacco-derived dividing cells and others in 120 images including interphase nuclei and garbage of various species as "chromosomes" and "others", respectively.
